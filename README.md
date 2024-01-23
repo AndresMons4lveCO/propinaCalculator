@@ -1,14 +1,11 @@
 # propinaCalculator
 in this repository are differents versions of an propinaCalculator in python (spanish code)
 -------------------------------------------------------------------------------------------------
-# Este programa lo creare completamente con funciones para asi ejecutar una unica
-# funcion al final que contendra el manejo de todas juntas
-# es una forma de programacion que me llamo mucho la atencion y comparto el link
-# de donde me inspire para programar con esta orientacion a funciones.
+Este programa lo creare completamente con funciones para asi ejecutar una unica funcion al final que contendra el manejo de todas juntas es una forma de programacion que me llamo mucho la atencion y comparto el link de donde me inspire para programar con esta orientacion a funciones.
+
 # link : https://github.com/kuzmicheff/palindrome/blob/master/palindrome.py
 
-# gracias esto el codigo se vuelve mas escalable y se le pueden añadir mas 
-# funcionalidades facilmente.
+gracias esto el codigo se vuelve mas escalable y se le pueden añadir mas funcionalidades facilmente.
 
 version notes:
 #--------------------------------CALCULADORA DE PROPINAS-----------------------------------------
