@@ -1,5 +1,5 @@
 # propinaCalculator
-in this repository are differents versions of the propinaCalculator in python (spanish code)
+in this repository are differents versions of an propinaCalculator in python (spanish code)
 -------------------------------------------------------------------------------------------------
 # Este programa lo creare completamente con funciones para asi ejecutar una unica
 # funcion al final que contendra el manejo de todas juntas
